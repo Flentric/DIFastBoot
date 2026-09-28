@@ -1,0 +1,11 @@
+*.asi
+*.obj
+*.lib
+*.exp
+*.pdb
+*.log
+*.7z
+*.tmp
+*.shadercache
+*.texcache
+ANIM_EVENTS_FOR_TEAM.md
